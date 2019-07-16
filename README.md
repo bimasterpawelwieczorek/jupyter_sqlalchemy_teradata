@@ -1,6 +1,9 @@
 # Jupyter sqlalchemy teradata
 Connect to Teradata Database with Teradata Wallet, sqlalchemy, %sql magic, plotly, widgets
 
+
+![](https://github.com/bimasterpawelwieczorek/jupyter_sqlalchemy_teradata/blob/master/samples/main%200.png)
+
 ## What you need
 
 Python packages:
